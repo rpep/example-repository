@@ -1,3 +1,3 @@
 Here is a second file I'm working on
 
-I am adding a second line to workshop2.txt
+Here's some more changes to workshop2 that I made in my branch.
